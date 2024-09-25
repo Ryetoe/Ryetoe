@@ -4,8 +4,7 @@ My name is Joshua Luce and I am a Undergraduate student at the University of Ill
 
 
 Currently working on:
-Productivity/focus apps
-figuring out ideas for lifestyle improvement apps
+Working on personal apps
 
 Some of my projects include:
 Worked on a Discord Bot with friends and experimented with the Discord api to add fun features
