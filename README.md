@@ -25,7 +25,7 @@ As I approach my final college years, I aim to deepen my skills by exploring new
 ### 🏗️ Past projects:
 - Worked on a Discord Bot with friends and experimented with the Discord api to add fun features such as a currency system
 - Worked in the game development team for the fall 2023 semester in the ISU Game dev club  
-- Additionally, I’ve worked on mods for games like Project Zomboid and Civilization 6, exploring ways to enhance player experiences.
+- Additionally, I’ve worked on mods for games like Project Zomboid and Civilization 6
 
 
 <!--
