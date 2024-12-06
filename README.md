@@ -3,7 +3,7 @@
 I'm Joshua Luce, an undergraduate student at the University of Illinois in Chicago, pursuing a Bachelor's Degree in Computer Science!
 
 ### 🛠 Skills:
--   **Coding languages:** C++, Java, Python, SQL, Prolog, Javascript, Lua  
+-   **Coding languages:** C++, Java, Python, SQL, Prolog, Javascript, Lua, GO, C#
 -   **Libraries:** pandas, NumPy, Matplotlib, pyodbc  
 -   **Developer tools:** Git, VS Code, Node.js, Google test (gtest), Notepad++  
 -   **Knowledgeable in:** Software Development Life Cycle (SDLC), Google Suite, Unity  
@@ -15,19 +15,21 @@ While my focus has broadened beyond gaming, it has remained a driving force behi
 
 
 ### 💼 Career Goals:
-As I approach my final college years, I aim to deepen my skills by exploring new development tools, programming languages, and personal projects. I'm eager to apply my growing skill set in a software engineering or game development internship. I'm always open to learning and excited about the possibilities the future holds in the tech and gaming industries.
+As I approach my final college years, I aim to deepen my skills by exploring new development tools, programming languages, and personal projects. I'm eager to apply my growing skill set in a software engineering or game development internship. I'm always open to learning and excited about the possibilities the future holds in the tech and gaming industries. Currently looking for a Summer 2025 software engineering internship
 
 
-### 🚧 Current projects:
+### 🚧 Current projects / Currently learning:
 -  FridgeStocker - keeps track of what is in my fridge and gives recipes for the ingredients inside
 -  A personal production app - that keeps me focused and on task as I do schoolwork
+-  Deepening my understanding of GO and its uses
 
 ### 🏗️ Past projects:
-- Worked on a Discord Bot with friends and experimented with the Discord api to add fun features such as a currency system
-- Worked in the game development team for the fall 2023 semester in the ISU Game dev club  
+- Worked on a Discord Bot with friends and experimented with the Discord API to add fun features such as a currency system
+- Worked in the game development team for the fall 2023 semester in the ISU Game Dev club  
 - Additionally, I’ve worked on mods for games like Project Zomboid and Civilization 6
 
-
+## 📫 How to reach me:
+- jluceds880@gmail.com
 <!--
 **Ryetoe/Ryetoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
